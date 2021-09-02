@@ -1,0 +1,3 @@
+var car = {
+  model: 'suburban',
+}
